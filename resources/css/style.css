@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+a {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+header h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.main {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.main h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
