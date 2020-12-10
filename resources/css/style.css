@@ -11,6 +11,11 @@ a {
     color: aquamarine;
 }
 
+p {
+    font-size: 21px;
+    color: gray;
+}
+
 header h1 {
     font-weight: normal;
     font-size: 50px;
@@ -20,7 +25,6 @@ header h1 {
     margin: auto;
     display: flex;
     flex-direction: column;
-    align-content: space-around;
 }
 
 h2 {
@@ -28,8 +32,8 @@ h2 {
     font-size: 42px;
 }
 
-.main p {
-    font-size: 21px;
-    color: gray;
+footer {
+    text-align: right;
+    padding-right: 10px;
 }
 
