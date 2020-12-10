@@ -20,9 +20,10 @@ header h1 {
     margin: auto;
     display: flex;
     flex-direction: column;
+    align-content: space-around;
 }
 
-.main h2 {
+h2 {
     font-weight: 300;
     font-size: 42px;
 }
